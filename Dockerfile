@@ -1,7 +1,6 @@
 FROM java:7
 
-
-MAINTAINER mrales
+MAINTAINER amracko
 
 ADD java-exp /usr/local/
 
