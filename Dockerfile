@@ -1,5 +1,6 @@
 FROM java:7
 
+
 MAINTAINER mrales
 
 ADD java-exp /usr/local/
