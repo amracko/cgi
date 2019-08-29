@@ -1,6 +1,6 @@
 FROM java:7
 
-MAINTAINER amracko
+MAINTAINER pavel
 
 ADD java-exp /usr/local/
 
